@@ -7,7 +7,6 @@ function Router() {
     <div>
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/Countries" element={<Countries />}/>
       </Routes>
     </div>
   );
